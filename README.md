@@ -1,4 +1,5 @@
 <h1>Credit score classification</h1>
+<img src="https://github.com/goldstring/credit_score_classification_using_machine_learning/blob/main/225670404_bd85c778-6caa-4b6a-8a04-21dba58eb672.jpg?raw=true" />
 <h3>📝 Project Description</h3>
 This project aims to develop a machine learning-based classification system that categorizes individuals into different credit score brackets — such as Good, Standard, or Poor — based on their credit-related and financial data. Credit score classification plays a crucial role in the finance industry by helping institutions evaluate creditworthiness, manage risks, and make informed lending decisions.
 
